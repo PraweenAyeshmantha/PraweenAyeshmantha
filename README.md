@@ -42,19 +42,6 @@ Technical Specialist with **8+ years of experience** designing and building **sc
 
 ---
 
-## 📌 Professional Experience
-
-### **LOLC Technologies**
-
-**Technical Specialist** (Jul 2025 – Present)
-**Senior Software Engineer** (May 2022 – Jul 2025)
-
-* Designing and developing scalable backend services
-* Leading and contributing to complex enterprise applications
-* Applying best practices in coding standards, performance, and system integration
-
----
-
 ### **Smart Outlet**
 
 **Business Owner** (Sep 2020 – May 2022)
@@ -80,13 +67,6 @@ Technical Specialist with **8+ years of experience** designing and building **sc
 
 * Contributed to enterprise systems used at scale
 * Focused on backend development and system stability
-
----
-
-## 🎓 Education
-
-* **Diploma in Information Technology** – University of Colombo
-* **Industrial Diploma in Software Development** – OpenArc Campus
 
 ---
 
