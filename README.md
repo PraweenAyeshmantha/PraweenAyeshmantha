@@ -42,34 +42,6 @@ Technical Specialist with **8+ years of experience** designing and building **sc
 
 ---
 
-### **Smart Outlet**
-
-**Business Owner** (Sep 2020 – May 2022)
-
-* Managed business operations and technical decision-making
-* Gained hands-on experience in entrepreneurship and product ownership
-
----
-
-### **OpenArc Systems Management (Pvt) Ltd.**
-
-**Associate Software Engineer** (Dec 2021 – Apr 2022)
-**Software Developer** (Jan 2015 – Jun 2018)
-
-* Developed and maintained Java-based applications
-* Worked closely with teams to deliver reliable software solutions
-
----
-
-### **LOLC Technologies Limited**
-
-**Senior Associate Software Engineer** (Jun 2018 – Sep 2020)
-
-* Contributed to enterprise systems used at scale
-* Focused on backend development and system stability
-
----
-
 ## 📂 Featured Work (Coming Soon)
 
 * 🔹 Spring Boot Microservices Samples
