@@ -55,7 +55,7 @@ Technical Specialist with **8+ years of experience** designing and building **sc
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: [Praween Ayeshmantha](https://www.linkedin.com/in/praween-ayeshmantha-b07a02104)
-* 📧 Email: [hkapayeshmantha@live.com](mailto:hkapayeshmantha@live.com)
+* 📧 Email: [hkapayeshmantha@live.com](mailto:hkapraween@gmail.com)
 
 ---
 
