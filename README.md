@@ -11,8 +11,9 @@ Technical Specialist with **8+ years of experience** designing and building **sc
 * 💼 **Technical Specialist @ LOLC Technologies**
 * 🏗️ Experienced in enterprise-grade system design and development
 * ⚙️ Strong background in **Spring Boot, Hibernate, Microservices**
+* 🤖 Actively leveraging **AI-assisted development tools** to improve productivity and code quality
 * 🤝 Enjoy collaborating in cross-functional teams
-* 📚 Continuous learner, always exploring modern developer tooling and best practices
+* 📚 Continuous learner, exploring modern developer tooling and best practices
 
 ---
 
@@ -24,6 +25,12 @@ Technical Specialist with **8+ years of experience** designing and building **sc
 * Spring Boot
 * Hibernate / JPA
 * Microservices Architecture
+
+**AI-Assisted Development & Modern Practices**
+
+* GitHub Copilot (AI pair programming)
+* Model Context Protocol (MCP)
+* Vibe Coding (AI-augmented development workflows)
 
 **Tools & Practices**
 
@@ -96,7 +103,7 @@ Technical Specialist with **8+ years of experience** designing and building **sc
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: [Praween Ayeshmantha](https://www.linkedin.com/in/praween-ayeshmantha-b07a02104)
-* 📧 Email: [hkapayeshmantha@live.com](mailto:hkapraween@gmail.com)
+* 📧 Email: [hkapayeshmantha@live.com](mailto:hkapayeshmantha@live.com)
 
 ---
 
